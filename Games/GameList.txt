@@ -1,0 +1,4 @@
+Game01/Title.jpg,Game01/TestTest.exe,タイトル１,製作者１
+Game02/Game02.mp4,Game02/GameProject.exe,タイトル２,製作者２
+Game03/Game03.mp4,Game03/GameProject.exe,タイトル３,製作者３
+Game04/Game04.mp4,Game04/GameProject.exe,タイトル４,製作者４
